@@ -22,4 +22,7 @@ public class Test {
     public void setName(String name) {
         this.name = name;
     }
+	  public  void test(){
+        System.out.print("moddify  first");
+    }
 }
